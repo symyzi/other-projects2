@@ -1,0 +1,11 @@
+D:\Visual Studio pack\secondLab\secondLab\bin\Debug\secondLab.exe.config
+D:\Visual Studio pack\secondLab\secondLab\bin\Debug\secondLab.exe
+D:\Visual Studio pack\secondLab\secondLab\bin\Debug\secondLab.pdb
+D:\Visual Studio pack\secondLab\secondLab\obj\Debug\secondLab.csproj.AssemblyReference.cache
+D:\Visual Studio pack\secondLab\secondLab\obj\Debug\secondLab.csproj.SuggestedBindingRedirects.cache
+D:\Visual Studio pack\secondLab\secondLab\obj\Debug\secondLab.Form1.resources
+D:\Visual Studio pack\secondLab\secondLab\obj\Debug\secondLab.Properties.Resources.resources
+D:\Visual Studio pack\secondLab\secondLab\obj\Debug\secondLab.csproj.GenerateResource.cache
+D:\Visual Studio pack\secondLab\secondLab\obj\Debug\secondLab.csproj.CoreCompileInputs.cache
+D:\Visual Studio pack\secondLab\secondLab\obj\Debug\secondLab.exe
+D:\Visual Studio pack\secondLab\secondLab\obj\Debug\secondLab.pdb
